@@ -1,0 +1,8 @@
+touch .gitignore
+git config --global user.name shipra
+git config --global user.email mshipra13@gmail.com 
+git init
+git add
+git commit -m "Initial commit"
+git status # Just to see
+$ ssh-keygen -t ed25519 -C "mshipra13@com"
